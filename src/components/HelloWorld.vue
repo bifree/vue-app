@@ -16,8 +16,7 @@
         </h1>
 
         <p class="subheading font-weight-regular">
-          For help and collaboration with other Vuetify developers,
-          <br>please join our online
+          こんにちは
           <a
             href="https://community.vuetifyjs.com"
             target="_blank"
